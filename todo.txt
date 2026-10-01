@@ -1,0 +1,2 @@
+1. add try catch in auth controller
+2. properly set or send the token to frontend
